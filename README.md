@@ -1,4 +1,4 @@
-# Playground for Exercise 3
+# Playground Agreed Name
 
 A place to play with `git`.
 
