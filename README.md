@@ -1,4 +1,4 @@
-# Playground
+# Playground new name
 
 A place to play with `git`.
 
